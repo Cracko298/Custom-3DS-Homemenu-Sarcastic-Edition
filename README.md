@@ -2,7 +2,7 @@
 A custom-made sarcastic 3DS Home-Menu. It was made to make the 3ds Home-Menu alot more... 
 - Sarcastic and Pissed off.
 
-Original Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
+Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
 
 When your Internet Connection is called Twitter, and your Locale connection is called lonely.
 
