@@ -10,3 +10,4 @@ Their is absolutely nothing this Home Menu, that won't try to insult you.
 
 From Sleep Mode & Making Folders, to your Friend's List. This is a very interesting way to look at a 3DS Home-Menu.
 
+Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy).
