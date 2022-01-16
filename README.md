@@ -12,6 +12,7 @@ From Sleep Mode & Making Folders, to your Friend's List. This is a very interest
 
 Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy).
 
+All the spelling mistakes are very intentional btw.
 
 ![2022-01-16_14-04-02 264_bot](https://user-images.githubusercontent.com/78656905/149674385-355f3e31-aec0-4b89-95f7-fed17fca9c60.jpg)
 ![2022-01-16_14-04-02 264_top](https://user-images.githubusercontent.com/78656905/149674386-c858138a-8e13-4a52-b2b5-01ddaea28149.jpg)
