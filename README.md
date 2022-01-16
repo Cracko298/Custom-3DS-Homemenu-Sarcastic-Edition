@@ -12,7 +12,7 @@ From Sleep Mode & Making Folders, to your Friend's List. This is a very interest
 
 # Only supports USA consoles on 11.14 or Higher.
 
-Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy).
+Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy to make my own).
 
 All the spelling mistakes are very intentional btw.
 
