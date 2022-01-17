@@ -21,7 +21,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - From Sleep Mode & Making Folders, to your Friend's List. This is a very interesting way to look at a 3DS Home-Menu.
 
-# Only supports USA consoles on 11.14 or Higher.
+# Only supports USA consoles with Engish on 11.14 or Higher.
 
 - Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy to make my own).
 
