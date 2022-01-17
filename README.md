@@ -5,7 +5,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
 
-# DO NOT INSTALL WITH FBI/GM9.
+# DO NOT INSTALL WITH FBI.
 
 - Encrypt the .cia with gm9 cia image options
 
