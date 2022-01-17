@@ -1,10 +1,19 @@
-# Sarcastic-3DS-Homemenu
+# Sarcastic 3DS Homemenu
 A custom-made sarcastic 3DS Home-Menu. It was made to make the 3ds Home-Menu alot more... 
+
 - Sarcastic and Pissed off.
 
-Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
+- Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
 
-When your Internet Connection is called Twitter, and your Locale connection is called lonely.
+# DO NOT INSTALL WITH FBI/GM9.
+
+- Encrypt the .cia with gm9 cia image options
+
+- Then install from the Mod_HomeMenu.gm9 via the GodMode9 script menu
+
+# Features?
+
+When your Internet Connection is Twitter, and your Locale connection is all lonely.
 
 Their is absolutely nothing in this Home Menu, that won't try to insult you.
 
