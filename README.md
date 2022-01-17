@@ -1,7 +1,7 @@
 # Sarcastic 3DS Homemenu
 A custom-made sarcastic/edgy 3DS Home-Menu.
 
-- Edgy Icon Text
+- Edgy Icon Text(s)
 
 - Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
 
