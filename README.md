@@ -7,9 +7,11 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 # DO NOT INSTALL WITH FBI.
 
-- Encrypt the .cia with gm9 cia image options
+- Copy the Mod_HomeMenu.gm9 to *SDHC:\gm9\scripts*.
 
-- Then install from the Mod_HomeMenu.gm9 via the GodMode9 script menu
+- Encrypt the *HomeMenu_edited.cia* with gm9 cia image options.
+
+- Then install from the Mod_HomeMenu.gm9 via the GodMode9 script menu.
 
 # Features?
 
