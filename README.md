@@ -13,17 +13,17 @@ A custom-made sarcastic 3DS Home-Menu. It was made to make the 3ds Home-Menu alo
 
 # Features?
 
-When your Internet Connection is Twitter, and your Locale connection is all lonely.
+- When your Internet Connection is Twitter, and your Locale connection is all lonely.
 
-Their is absolutely nothing in this Home Menu, that won't try to insult you.
+- Their is absolutely nothing in this Home Menu, that won't try to insult you.
 
-From Sleep Mode & Making Folders, to your Friend's List. This is a very interesting way to look at a 3DS Home-Menu.
+- From Sleep Mode & Making Folders, to your Friend's List. This is a very interesting way to look at a 3DS Home-Menu.
 
 # Only supports USA consoles on 11.14 or Higher.
 
-Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy to make my own).
+- Follow Cooolgamer's Installation Tutorial via the Link Above. (I am too lazy to make my own).
 
-All the spelling mistakes are very intentional btw.
+- All the spelling mistakes are very intentional btw.
 
 ![2022-01-16_14-04-02 264_bot](https://user-images.githubusercontent.com/78656905/149674385-355f3e31-aec0-4b89-95f7-fed17fca9c60.jpg)
 ![2022-01-16_14-04-02 264_top](https://user-images.githubusercontent.com/78656905/149674386-c858138a-8e13-4a52-b2b5-01ddaea28149.jpg)
