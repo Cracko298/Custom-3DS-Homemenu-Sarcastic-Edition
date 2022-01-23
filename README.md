@@ -45,7 +45,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Or in the Releases Tab 😉
 
-# Any QR Codes?
+# QR Codes
 
 I don't reccommend using these as they could imediately crash your 3ds. 
 
