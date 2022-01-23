@@ -7,6 +7,8 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
 
+- Installation Guide: https://www.youtube.com/watch?v=iLm6LMb55bA&t=30s
+
 # DO NOT INSTALL WITH FBI.
 
 - Copy the Mod_HomeMenu.gm9 to *SDHC:\gm9\scripts*.
