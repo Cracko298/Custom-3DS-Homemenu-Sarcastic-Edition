@@ -47,7 +47,9 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 # Any QR Codes?
 
-I don't reccommend using these as they could imediately crash your 3ds. And it will no longer boot. (Make a backup of your HomeMenu)
+I don't reccommend using these as they could imediately crash your 3ds. 
+
+And it will no longer boot. (Make a backup of your HomeMenu just in case anything goes wrong).
 
 - EUR_HomeMenu_Edited:
 
