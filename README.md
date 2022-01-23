@@ -45,6 +45,22 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Or in the Releases Tab 😉
 
+# Any QR Codes?
+
+I don't reccommend using these as they could imediately crash your 3ds. And it will no longer boot. (Make a backup of your HomeMenu)
+
+- EUR_HomeMenu_Edited:
+
+![EUR](https://user-images.githubusercontent.com/78656905/150690118-ba12ca74-fe9e-4c0c-b4bd-8c4f06d4e41b.png)
+
+- USA_HomeMenu_Edited:
+
+![USA](https://user-images.githubusercontent.com/78656905/150690157-df2ea827-dcf9-437d-b9ba-210a51dbc22a.png)
+
+- Mod_HomeMenu_Script:
+
+![ModMenu](https://user-images.githubusercontent.com/78656905/150690173-ffc1feea-a1a9-4c3b-a11f-0d738f4a96f2.png)
+
 # Screenshots
 
 ![2022-01-16_14-04-02 264_top](https://user-images.githubusercontent.com/78656905/149674386-c858138a-8e13-4a52-b2b5-01ddaea28149.jpg)
