@@ -13,6 +13,8 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Encrypt the *1EUR_HomeMenu_edited.cia "or" 1USA_HomeMenu_edited.cia* with gm9 cia image options.
 
+- Put the .cia file for your region in the *SDHC:\gm9\out* folder
+
 - Then install from the Mod_HomeMenu.gm9 via the GodMode9 script menu.
 
 # Features?
