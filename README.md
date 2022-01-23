@@ -3,6 +3,8 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Edgy Icon Text(s).
 
+- Now Supports EUR Consoles.
+
 - Based on this Repo: https://github.com/cooolgamer/Custom-Homemenu-3DS
 
 # DO NOT INSTALL WITH FBI.
