@@ -35,6 +35,18 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - All the spelling mistakes are very intentional btw.
 
+# Where can I download this awesome Home-Menu?
+
+- North America & Canada: [USA_HomeMenu_Edited](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920953/1USA_HomeMenu.zip)
+
+- European Union & UK: [EUR_HomeMenu_Edited](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920952/1EUR_HomeMenu.zip)
+
+- GM9 Mod_HomeMenu Script: [Mod_HomeMenu](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920960/Mod_HomeMenu.zip)
+
+- Or in the Releases Tab 😉
+
+# Screenshots
+
 ![2022-01-16_14-04-02 264_top](https://user-images.githubusercontent.com/78656905/149674386-c858138a-8e13-4a52-b2b5-01ddaea28149.jpg)
 
 ![2022-01-16_14-04-17 515_bot](https://user-images.githubusercontent.com/78656905/149674389-bed5b1d6-77c6-4f66-ba5b-c7e3b0ffc1c2.jpg)
