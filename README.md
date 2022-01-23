@@ -21,7 +21,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 # Features?
 
-- When your Internet Connection is Twitter, and your Locale connection is all lonely.
+- When your Internet Connection is redirected, and your Locale connection is all alone.
 
 - Their is absolutely nothing in this Home Menu, that won't try to insult you.
 
