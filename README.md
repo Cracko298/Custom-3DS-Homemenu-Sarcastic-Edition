@@ -39,7 +39,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - North America & Canada: [USA_HomeMenu_Edited](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920953/1USA_HomeMenu.zip)
 
-- European Union & UK: [EUR_HomeMenu_Edited](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920952/1EUR_HomeMenu.zip)
+- European Union, Russia & UK: [EUR_HomeMenu_Edited](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920952/1EUR_HomeMenu.zip)
 
 - GM9 Mod_HomeMenu Script: [Mod_HomeMenu](https://github.com/Cracko298/Custom-3DS-Homemenu-Sarcastic-Edition/files/7920960/Mod_HomeMenu.zip)
 
