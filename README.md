@@ -45,25 +45,13 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Or in the Releases Tab 😉
 
-# QR Codes
+# QR Codes?
 
-I don't reccommend using these as they could imediately crash your 3ds. 
+- I don't supply QR Codes here. As the Home-Menu isn't encrypted yet, and could lead to an unusable system. 
 
-And make it so it'll no longer boot to the Home-Menu.
+(Such as a brick).
 
-(Be sure to make a backup of your Home-Menu & NAND just in case anything goes wrong).
-
-- EUR_HomeMenu_Edited:
-
-![EUR](https://user-images.githubusercontent.com/78656905/150690118-ba12ca74-fe9e-4c0c-b4bd-8c4f06d4e41b.png)
-
-- USA_HomeMenu_Edited:
-
-![USA](https://user-images.githubusercontent.com/78656905/150690157-df2ea827-dcf9-437d-b9ba-210a51dbc22a.png)
-
-- Mod_HomeMenu_Script:
-
-![ModMenu](https://user-images.githubusercontent.com/78656905/150690173-ffc1feea-a1a9-4c3b-a11f-0d738f4a96f2.png)
+- Make sure to encrypt it before installing via GM9 or Decrypt9.
 
 # Screenshots
 
