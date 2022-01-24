@@ -59,7 +59,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Can I access the Theme shop through this Home-Menu? Just use Anemone.
 
-- How do I Uninstall the Home-Menu? The provided GM9 Script hss a restore option.
+- How do I Uninstall the Home-Menu? The provided GM9 Script has a restore option.
 
 - Can I play online games with other people? Including random people? Yes.
 
