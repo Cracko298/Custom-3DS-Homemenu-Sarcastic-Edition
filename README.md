@@ -49,7 +49,9 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 I don't reccommend using these as they could imediately crash your 3ds. 
 
-And it will no longer boot. (Make a backup of your HomeMenu & NAND just in case anything goes wrong).
+And make it so it'll no longer boot to the Home-Menu.
+
+(Be sure to make a backup of your Home-Menu & NAND just in case anything goes wrong).
 
 - EUR_HomeMenu_Edited:
 
