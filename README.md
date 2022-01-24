@@ -53,6 +53,16 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Make sure to encrypt it before installing via GM9 or Decrypt9.
 
+# FAQ.
+
+- Can I access the eshop through this Home-Menu? No. 
+
+- Can I access the Theme shop through this Home-Menu? Just use Anemone.
+
+- How do I Uninstall the Home-Menu? The provided GM9 Script hss a restore option.
+
+- Can I play online games with other people? Including random people? Yes.
+
 # Screenshots
 
 ![2022-01-16_14-04-02 264_top](https://user-images.githubusercontent.com/78656905/149674386-c858138a-8e13-4a52-b2b5-01ddaea28149.jpg)
