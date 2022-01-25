@@ -65,7 +65,7 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Isn't this a rom hack, of CooolGamer's Home-Menu? *Yes, this was based on his Home-Menu, it's moreover just a mod/romhack.*
 
-- Why aren't QR Codes supported? *Unless you want to go about reinstalling your original Home-Menu. Do NOT install through QR Codes or FBI. And make sure to encrypt the file before installing it, via the provided GM9 Script.*
+- Why aren't QR Codes supported? *Unless you want to go about reinstalling your original Home-Menu. Do NOT install through QR Codes or FBI. And make sure to encrypt the file before installing it, via GM9 .cia Imaging Options.*
 
 # Screenshots
 
