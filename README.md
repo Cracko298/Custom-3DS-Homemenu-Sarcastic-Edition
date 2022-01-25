@@ -57,13 +57,15 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 - Can I access the eshop through this Home-Menu? *No, and in most context's who uses it now anyway?*
 
-- Can I access the Theme shop through this Home-Menu? *Yes, although I recommended using the Anemone Theme Manager instead.*
+- Can I access the Theme shop through this Home-Menu? *Yes, although I recommend using the Anemone Theme Manager instead.*
 
 - How do I Uninstall the Home-Menu? *The provided GM9 Script has a Home-Menu restore option.*
 
 - Can I play online games with other people? Including random people? *Yes, you can also still use cheats as well, provided you have the latest Luma3ds 3GX Loader.*
 
 - Isn't this a rom hack, of CooolGamer's Home-Menu? *Yes, this was based on his Home-Menu, it's moreover just a mod/romhack.*
+
+- Why aren't QR Codes supported? *Unless you want to go about reinstalling your original Home-Menu. Do NOT install through QR Codes or FBI. And make sure to encrypt the file before installing it via the GM9 Script.*
 
 # Screenshots
 
