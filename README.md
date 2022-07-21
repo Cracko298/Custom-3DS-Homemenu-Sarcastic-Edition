@@ -55,9 +55,9 @@ A custom-made sarcastic/edgy 3DS Home-Menu.
 
 # FAQ.
 
-- Can I access the eshop through this Home-Menu? *No, and in most context's who uses it now anyway?*
+- Can I access the eshop through this Home-Menu? *Yes, however it only supports the USA Version of the Home-Menu. And in most context's who uses it now anyway?*
 
-- Can I access the Theme shop through this Home-Menu? *Yes, although I recommend using the Anemone Theme Manager instead.*
+- Can I access the Theme shop through this Home-Menu? *Yes, although I recommend using the Anemone Theme Manager instead. Plus that's were the Credits are.*
 
 - How do I Uninstall the Home-Menu? *The provided GM9 Script has a Home-Menu restore option.*
 
